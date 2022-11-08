@@ -1,0 +1,23 @@
+{
+  "name": "node_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z70007Z/ajs_Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Z70007Z/ajs_Node/issues"
+  },
+  "homepage": "https://github.com/Z70007Z/ajs_Node#readme",
+  "dependencies": {
+    "@z70007z/ajs": "^1.0.0"
+  }
+}
